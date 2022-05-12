@@ -1,0 +1,9 @@
+# Created at 2022-05-11T20:19:29.325
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1m25[0m[32m de material importado e preço [0m[32m[1m80[0m [90m# mc646.cucumberExample.NotaFiscalStepDefinitions.compra_produto_com_percentual_importado_preco(java.lang.String,float,float)[0m'.
+
+# Created at 2022-05-11T20:19:29.328
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mWhen [0m[32memitir a nota fiscal para a venda[0m                                          [90m# mc646.cucumberExample.NotaFiscalStepDefinitions.emitir_nota_fiscal_para_venda()[0m'.
+
+# Created at 2022-05-11T20:19:29.330
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mThen [0m[32mverificar se o valor final do produto igual a [0m[32m[1m82.4[0m                         [90m# mc646.cucumberExample.NotaFiscalStepDefinitions.verificar_valor_final_produto_preco_final(float)[0m'.
+

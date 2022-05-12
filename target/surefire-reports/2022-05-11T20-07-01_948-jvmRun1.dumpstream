@@ -1,0 +1,249 @@
+# Created at 2022-05-11T20:07:02.929
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'AbstractPipeline.evaluate(AbstractPipeline.java:234)'.
+
+# Created at 2022-05-11T20:07:02.930
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)'.
+
+# Created at 2022-05-11T20:07:02.931
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteExpression(CucumberExpression.java:116)'.
+
+# Created at 2022-05-11T20:07:02.932
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteToRegex(CucumberExpression.java:57)'.
+
+# Created at 2022-05-11T20:07:02.932
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.<init>(CucumberExpression.java:40)'.
+
+# Created at 2022-05-11T20:07:02.933
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.ExpressionFactory.createExpression(ExpressionFactory.java:39)'.
+
+# Created at 2022-05-11T20:07:02.933
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.core.stepexpression.StepExpressionFactory.crateExpression(StepExpressionFactory.java:88)'.
+
+# Created at 2022-05-11T20:07:02.933
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	... 76 more'.
+
+# Created at 2022-05-11T20:07:02.934
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'tial(ReduceOps.java:913)'.
+
+# Created at 2022-05-11T20:07:02.935
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)'.
+
+# Created at 2022-05-11T20:07:02.935
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)'.
+
+# Created at 2022-05-11T20:07:02.936
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteExpression(CucumberExpression.java:116)'.
+
+# Created at 2022-05-11T20:07:02.936
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteToRegex(CucumberExpression.java:57)'.
+
+# Created at 2022-05-11T20:07:02.936
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.<init>(CucumberExpression.java:40)'.
+
+# Created at 2022-05-11T20:07:02.937
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.ExpressionFactory.createExpression(ExpressionFactory.java:39)'.
+
+# Created at 2022-05-11T20:07:02.937
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.core.stepexpression.StepExpressionFactory.crateExpression(StepExpressionFactory.java:88)'.
+
+# Created at 2022-05-11T20:07:02.938
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	... 96 more'.
+
+# Created at 2022-05-11T20:07:02.939
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'tial(ReduceOps.java:913)'.
+
+# Created at 2022-05-11T20:07:02.940
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)'.
+
+# Created at 2022-05-11T20:07:02.940
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)'.
+
+# Created at 2022-05-11T20:07:02.941
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteExpression(CucumberExpression.java:116)'.
+
+# Created at 2022-05-11T20:07:02.941
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteToRegex(CucumberExpression.java:57)'.
+
+# Created at 2022-05-11T20:07:02.941
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.<init>(CucumberExpression.java:40)'.
+
+# Created at 2022-05-11T20:07:02.942
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.ExpressionFactory.createExpression(ExpressionFactory.java:39)'.
+
+# Created at 2022-05-11T20:07:02.942
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.core.stepexpression.StepExpressionFactory.crateExpression(StepExpressionFactory.java:88)'.
+
+# Created at 2022-05-11T20:07:02.943
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	... 96 more'.
+
+# Created at 2022-05-11T20:07:02.945
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'tial(ReduceOps.java:913)'.
+
+# Created at 2022-05-11T20:07:02.946
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)'.
+
+# Created at 2022-05-11T20:07:02.946
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)'.
+
+# Created at 2022-05-11T20:07:02.947
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteExpression(CucumberExpression.java:116)'.
+
+# Created at 2022-05-11T20:07:02.947
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteToRegex(CucumberExpression.java:57)'.
+
+# Created at 2022-05-11T20:07:02.947
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.<init>(CucumberExpression.java:40)'.
+
+# Created at 2022-05-11T20:07:02.948
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.ExpressionFactory.createExpression(ExpressionFactory.java:39)'.
+
+# Created at 2022-05-11T20:07:02.948
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.core.stepexpression.StepExpressionFactory.crateExpression(StepExpressionFactory.java:88)'.
+
+# Created at 2022-05-11T20:07:02.949
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	... 96 more'.
+
+# Created at 2022-05-11T20:07:02.951
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'tial(ReduceOps.java:913)'.
+
+# Created at 2022-05-11T20:07:02.952
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)'.
+
+# Created at 2022-05-11T20:07:02.952
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)'.
+
+# Created at 2022-05-11T20:07:02.952
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteExpression(CucumberExpression.java:116)'.
+
+# Created at 2022-05-11T20:07:02.953
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteToRegex(CucumberExpression.java:57)'.
+
+# Created at 2022-05-11T20:07:02.953
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.<init>(CucumberExpression.java:40)'.
+
+# Created at 2022-05-11T20:07:02.953
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.ExpressionFactory.createExpression(ExpressionFactory.java:39)'.
+
+# Created at 2022-05-11T20:07:02.954
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.core.stepexpression.StepExpressionFactory.crateExpression(StepExpressionFactory.java:88)'.
+
+# Created at 2022-05-11T20:07:02.954
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	... 96 more'.
+
+# Created at 2022-05-11T20:07:02.956
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'tial(ReduceOps.java:913)'.
+
+# Created at 2022-05-11T20:07:02.957
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)'.
+
+# Created at 2022-05-11T20:07:02.957
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)'.
+
+# Created at 2022-05-11T20:07:02.958
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteExpression(CucumberExpression.java:116)'.
+
+# Created at 2022-05-11T20:07:02.959
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteToRegex(CucumberExpression.java:57)'.
+
+# Created at 2022-05-11T20:07:02.959
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.<init>(CucumberExpression.java:40)'.
+
+# Created at 2022-05-11T20:07:02.961
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.ExpressionFactory.createExpression(ExpressionFactory.java:39)'.
+
+# Created at 2022-05-11T20:07:02.962
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.core.stepexpression.StepExpressionFactory.crateExpression(StepExpressionFactory.java:88)'.
+
+# Created at 2022-05-11T20:07:02.962
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	... 96 more'.
+
+# Created at 2022-05-11T20:07:02.964
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'tial(ReduceOps.java:913)'.
+
+# Created at 2022-05-11T20:07:02.964
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)'.
+
+# Created at 2022-05-11T20:07:02.965
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)'.
+
+# Created at 2022-05-11T20:07:02.965
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteExpression(CucumberExpression.java:116)'.
+
+# Created at 2022-05-11T20:07:02.966
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteToRegex(CucumberExpression.java:57)'.
+
+# Created at 2022-05-11T20:07:02.967
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.<init>(CucumberExpression.java:40)'.
+
+# Created at 2022-05-11T20:07:02.968
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.ExpressionFactory.createExpression(ExpressionFactory.java:39)'.
+
+# Created at 2022-05-11T20:07:02.969
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.core.stepexpression.StepExpressionFactory.crateExpression(StepExpressionFactory.java:88)'.
+
+# Created at 2022-05-11T20:07:02.969
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	... 96 more'.
+
+# Created at 2022-05-11T20:07:02.970
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'tial(ReduceOps.java:913)'.
+
+# Created at 2022-05-11T20:07:02.970
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)'.
+
+# Created at 2022-05-11T20:07:02.971
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)'.
+
+# Created at 2022-05-11T20:07:02.971
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteExpression(CucumberExpression.java:116)'.
+
+# Created at 2022-05-11T20:07:02.972
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.rewriteToRegex(CucumberExpression.java:57)'.
+
+# Created at 2022-05-11T20:07:02.972
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.CucumberExpression.<init>(CucumberExpression.java:40)'.
+
+# Created at 2022-05-11T20:07:02.973
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.cucumberexpressions.ExpressionFactory.createExpression(ExpressionFactory.java:39)'.
+
+# Created at 2022-05-11T20:07:02.977
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at io.cucumber.core.stepexpression.StepExpressionFactory.crateExpression(StepExpressionFactory.java:88)'.
+
+# Created at 2022-05-11T20:07:02.978
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	... 96 more'.
+
+# Created at 2022-05-11T20:07:02.988
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'o(AbstractPipeline.java:484)'.
+
+# Created at 2022-05-11T20:07:02.989
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)'.
+
+# Created at 2022-05-11T20:07:02.989
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)'.
+
+# Created at 2022-05-11T20:07:02.990
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)'.
+
+# Created at 2022-05-11T20:07:02.990
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)'.
+
+# Created at 2022-05-11T20:07:02.991
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		at io.cucumber.cucumberexpressions.CucumberExpression.rewriteExpression(CucumberExpression.java:116)'.
+
+# Created at 2022-05-11T20:07:02.991
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		at io.cucumber.cucumberexpressions.CucumberExpression.rewriteToRegex(CucumberExpression.java:57)'.
+
+# Created at 2022-05-11T20:07:02.992
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		at io.cucumber.cucumberexpressions.CucumberExpression.<init>(CucumberExpression.java:40)'.
+
+# Created at 2022-05-11T20:07:02.992
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		at io.cucumber.cucumberexpressions.ExpressionFactory.createExpression(ExpressionFactory.java:39)'.
+
+# Created at 2022-05-11T20:07:02.993
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		at io.cucumber.core.stepexpression.StepExpressionFactory.crateExpression(StepExpressionFactory.java:88)'.
+
+# Created at 2022-05-11T20:07:02.993
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '		... 96 more'.
+
+# Created at 2022-05-11T20:07:02.993
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0m'.
+

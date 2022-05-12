@@ -1,0 +1,30 @@
+# Created at 2022-05-11T20:10:16.626
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream ' valor final da nota de um produto com imposto                 [90m# mc646/cucumberExample/notafiscal.feature:30[0m'.
+
+# Created at 2022-05-11T20:10:16.628
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mGiven [0m[32mcompra do produto [0m[32m[1m"Painel inteligente"[0m[32m com [0m[32m[1m95[0m[32m de material importado e preço [0m[32m[1m1000[0m [90m# mc646.cucumberExample.NotaFiscalStepDefinitions.compra_produto_com_percentual_importado_preco(java.lang.String,float,float)[0m'.
+
+# Created at 2022-05-11T20:10:16.628
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mWhen [0m[32memitir a nota fiscal para a venda[0m                                                 [90m# mc646.cucumberExample.NotaFiscalStepDefinitions.emitir_nota_fiscal_para_venda()[0m'.
+
+# Created at 2022-05-11T20:10:16.629
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mThen [0m[32mverificar se o valor final do produto igual a [0m[32m[1m1110[0m                                [90m# mc646.cucumberExample.NotaFiscalStepDefinitions.verificar_valor_final_produto_preco_final(float)[0m'.
+
+# Created at 2022-05-11T20:10:16.630
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Scenario Outline: Calcular valor final da nota de um produto com imposto          [90m# mc646/cucumberExample/notafiscal.feature:31[0m'.
+
+# Created at 2022-05-11T20:10:16.633
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Equals(AssertEquals.java:97)'.
+
+# Created at 2022-05-11T20:10:16.634
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:731)'.
+
+# Created at 2022-05-11T20:10:16.634
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at mc646.cucumberExample.NotaFiscalStepDefinitions.verificar_valor_final_produto_preco_final(NotaFiscalStepDefinitions.java:47)'.
+
+# Created at 2022-05-11T20:10:16.636
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at ✽.verificar se o valor final do produto igual a 82.4(classpath:mc646/cucumberExample/notafiscal.feature:21)'.
+
+# Created at 2022-05-11T20:10:16.636
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0m'.
+

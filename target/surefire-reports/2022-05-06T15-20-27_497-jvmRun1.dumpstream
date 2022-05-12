@@ -1,0 +1,15 @@
+# Created at 2022-05-06T15:20:28.559
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'piter.api.AssertEquals.assertEquals(AssertEquals.java:97)'.
+
+# Created at 2022-05-06T15:20:28.560
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:731)'.
+
+# Created at 2022-05-06T15:20:28.561
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at mc646.cucumberExample.StepDefinitions.verificar_valor_final_painel_inteligente_1110(StepDefinitions.java:30)'.
+
+# Created at 2022-05-06T15:20:28.564
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at ✽.Verificar o valor final do Painel Inteligente igual a 1110(classpath:mc646/cucumberExample/notafiscal.feature:28)'.
+
+# Created at 2022-05-06T15:20:28.564
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0m'.
+

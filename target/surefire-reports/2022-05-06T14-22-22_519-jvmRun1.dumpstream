@@ -1,0 +1,24 @@
+# Created at 2022-05-06T14:22:25.502
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream ' com imposto [90m# mc646/cucumberExample/notafiscal.feature:49[0m'.
+
+# Created at 2022-05-06T14:22:25.506
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [33mGiven [0m[33mcompra do produto "Painel inteligente" com 95 e preço 1000[0m'.
+
+# Created at 2022-05-06T14:22:25.508
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [36mWhen [0m[36memitir a nota fiscal para a venda[0m'.
+
+# Created at 2022-05-06T14:22:25.530
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [36mThen [0m[36mI verify the 1110 in step[0m'.
+
+# Created at 2022-05-06T14:22:25.531
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Scenario Outline: Calcular valor final da nota de um produto com imposto [90m# mc646/cucumberExample/notafiscal.feature:50[0m'.
+
+# Created at 2022-05-06T14:22:25.534
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [33mGiven [0m[33mcompra do produto "Kit rolamento" com 25 e preço 80[0m'.
+
+# Created at 2022-05-06T14:22:25.536
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [36mWhen [0m[36memitir a nota fiscal para a venda[0m'.
+
+# Created at 2022-05-06T14:22:25.537
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [36mThen [0m[36mI verify the 82.4 in step[0m'.
+
